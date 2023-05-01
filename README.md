@@ -1,5 +1,5 @@
-<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=kissablemt" /> </div>
-![](https://komarev.com/ghpvc/?username=your-github-username)
+<!-- <div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=kissablemt" /> </div> -->
+<img src="https://komarev.com/ghpvc/?username=sun0225SUN&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
 
 <!-- 
 ### Github Stats
